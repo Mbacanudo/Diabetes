@@ -1,2 +1,2 @@
 # Diabetes
-Modelos de clasificación Diabetes
+ML Classification Diabetes
